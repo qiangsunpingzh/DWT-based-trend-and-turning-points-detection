@@ -1,7 +1,6 @@
 ##########################################DWT-TTD###############################################################
 """
 # -*- coding: utf-8 -*-
-This code was used to figure out the processes of DWT-TTD for a given time series of signals from EXCEL
 Author: qiangsun@cau.edu.cn  
 College of Land Science and Technology, China Agricultural University, Beijing, China
 """
